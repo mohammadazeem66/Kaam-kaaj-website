@@ -1,0 +1,273 @@
+.maincontainer{
+    border: 3px solid black;
+    width: 100%;
+    height: 1600px;
+    border-style: none;
+}
+.mainheading{
+
+    color: orangered;
+}
+.heading2{
+ 
+    color: orangered;
+
+}
+.container1{
+  background-image: url(./abstract-light-gray-background-polygonal-texture-website-artworks-backdrop-83132924.jpg );
+  border: 2px solid black;
+width: 100%;
+height: 900px;
+text-decoration: none;
+border-style: none;
+}
+
+
+.nav{
+    border: 1px solid black;
+    width: 85%;
+    height: 100px;
+    display: flex;
+    border-style: none;
+}
+.navend{
+
+    display: flex;
+}
+.logo{
+    border: 1px solid black;
+    width: 80%;
+    height: 100px;
+    margin-left: 160px;
+    border-style: none;
+}
+.services{
+  margin-left: 160px;
+
+}
+.text{
+    border: 1px solid black;
+    width: 70%;
+    height: 500px;
+    margin-top: 60px;
+    border-style: none;
+}
+/* .container{
+
+    display: flex;
+} */
+.yourservice{
+    border: 1px solid black;
+    width: 60%;
+    margin-left: 300px;
+    margin-top: 80px;
+    border-style: none;
+text-align: center;
+background-color: black;
+border-radius: 25px;
+}
+.serviceheading{
+
+    color: bisque;
+}
+.input{
+
+    margin-top: 50px;
+}
+.services{
+ border: 1px solid black;
+ width: 80%;
+ height: 400px;
+    display: flex;
+    border-style: none;
+}
+.btn{
+    width: 171px;
+    height: 30px;
+   background-color: orangered;
+}
+.btn:hover{
+    color: cornsilk;
+}
+
+.container2{
+      background-image: url(./gray-wall-textures-background_74190-4389.avif);
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+    border-style: none;
+}
+.text2{
+   justify-content: center;
+
+}
+.facilities{
+    display: flex;
+    border: 1px black;
+    width: 100%;
+    height: 60px;
+    justify-content: space-evenly;
+    border-style: none;
+}
+.pic1{
+    width: 80px;
+    height: 100px;
+}
+
+.pic2{
+    width: 80px;
+    height: 100px;
+}
+
+.pic3{
+    width: 80px;
+    height: 100px;
+}
+
+.pic4{
+    width: 80px;
+    height: 100px;
+}
+.pic5{
+    width: 80px;
+    height: 100px;
+}
+.pic6{
+    width: 80px;
+    height: 100px;
+}
+.pic7{
+    width: 80px;
+    height: 100px;
+}
+.pic8{
+    width: 80px;
+    height: 100px;
+}
+.pic9{
+    width: 80px;
+    height: 100px;
+}
+.head2{
+    margin-left: 600px;
+}
+.headb{
+    margin-left: 550px;
+}
+.head4{
+    margin-left: 250px;
+}
+.headd{
+    margin-left: 450px;
+}
+
+.row1pic{
+    border: 1px solid black;
+    justify-content: space-evenly;
+}
+.repair1{
+
+    width: 300px;
+    height: 300px;
+}
+.repair2{
+
+    width: 300px;
+    height: 300px;
+}
+.repair3{
+
+    width: 300px;
+    height: 300px;
+}
+.repair4{
+
+    width: 300px;
+    height: 300px;
+}
+/* .repair5{
+
+    width: 300px;
+    height: 300px;
+} */
+
+.repair1a{
+
+    width: 300px;
+    height: 300px;
+}
+.repair2a{
+
+    width: 300px;
+    height: 300px;
+}
+.repair3a{
+
+    width: 300px;
+    height: 300px;
+}
+.repair4a{
+
+    width: 300px;
+    height: 300px;
+}
+/* .repair5a{
+
+    width: 300px;
+    height: 300px;
+} */
+
+.container3{
+    background-color: darkgray;
+    border: 2px solid black;
+    margin-top: 500px;
+    height: 500px;
+    border-style: none;
+}
+.pictureend{
+     display: flex;
+    border: 1px solid blue;
+    margin-top: 110px;
+    height: 600px;
+    border-style: none;
+}
+.hometoolpic{
+
+    width: 500px;
+    height: 500px;
+}
+.hometooltext{
+
+    border: 1px solid red;
+    width: 40%;
+    margin-left: 150px;
+    border-style: none;
+
+}
+.card{
+    background-image: url(./pexels-craig-adderley-1563356.jpg);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    color: white;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+.btn2{
+
+    background-color: orangered;
+    color: black;
+    width: 200px;
+    position: relative;
+}
+.btn2:hover{
+  
+ color: burlywood;
+
+}
+.cardheading{
+
+    display: flex;
+    justify-content: space-between;
+}
+
